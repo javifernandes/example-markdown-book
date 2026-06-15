@@ -1,7 +1,6 @@
 # Welcome
 
-This demo book exists to verify that BookOps can import Markdown from a GitHub repository.
-
+This demo book exists to showcase and test how BookOps imports Markdown from a GitHub repository.
 The import should create a private book by default, preserve chapter order, and keep basic Markdown structure readable.
 
 ## What This Covers
