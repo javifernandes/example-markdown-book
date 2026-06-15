@@ -10,4 +10,8 @@ The import should create a private book by default, preserve chapter order, and 
 - Numbered chapter files.
 - Headings, paragraphs, lists, links, tables, and code blocks.
 
+## Sync Link
+
+It also servers showing how pushes to main trigger book content synchronization.
+
 Continue with [How the Fixture Is Structured](02-structure.md).
