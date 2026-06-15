@@ -13,5 +13,6 @@ The import should create a private book by default, preserve chapter order, and 
 ## Sync Link
 
 It also exercises how pushes to `main` branch trigger book content synchronization.
+This feature will later have a more clever sync and sync history for book authors. Plus publishing events when the book has been updated.
 
 Continue with [How the Fixture Is Structured](02-structure.md).
