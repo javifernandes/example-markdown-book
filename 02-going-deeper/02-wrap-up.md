@@ -12,3 +12,4 @@ After importing, check that:
 - The selected visibility matches the wizard choice.
 
 This is the end of the demo fixture.
+We hope you enjoyed it !
